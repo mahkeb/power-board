@@ -1,6 +1,6 @@
 # power-board
 
-This board uses a ETA9740 to charge a 4.2v Lipo battery through pin header and then it uses a TPS63020 Buck Boost converter to get the voltage down to 3.3v
+This board uses a ETA9740 to charge a 3.7v Lipo battery through pin header and then it uses a TPS63020 Buck Boost converter to get the voltage down to 3.3v
 
 PCB top layer:
 
